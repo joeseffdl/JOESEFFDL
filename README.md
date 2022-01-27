@@ -9,10 +9,10 @@
 
 ### Here are my Socials:
 
-[website]
-[youtube]
-[twitter]
-[facebook]
+[Portfolio]
+[YouTube]
+[Twitter]
+[Facebook]
 
 <br />
 
@@ -33,7 +33,15 @@ Quasar
 <br />
 <br />
 
-[website]: https://joeseffdl.github.io/portfolio/
-[twitter]: https://twitter.com/VerdantZeph
-[youtube]: https://www.youtube.com/channel/UCzz71vh75tZOhTMIf-Fc4vw
-[facebook]: https://www.facebook.com/VerdantMusicZeph/
+---
+
+[![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeseffdl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joeseffdl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[Portfolio]: https://joeseffdl.github.io/portfolio/
+[Twitter]: https://twitter.com/VerdantZeph
+[YouTube]: https://www.youtube.com/channel/UCzz71vh75tZOhTMIf-Fc4vw
+[Facebook]: https://www.facebook.com/VerdantMusicZeph/
