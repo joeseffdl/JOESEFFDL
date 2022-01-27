@@ -7,7 +7,7 @@
 * 🕸️ Getting the hang of **HTML, CSS, and JavaScript** on my [Portfolio].
 * 🎁 Looking forward to Contribute to Open Source projects.
 * 🥅 My Goal 2022: To be confident in Frontend development `=>` Backend development.
-* ❤️ learning how to program and playing the 🎸 is my hobby to relax.
+* ❤️ Learning how to program and playing the 🎸 is my hobby to relax.
 
 <br />
 
@@ -64,4 +64,4 @@
 [Twitter]: https://twitter.com/VerdantZeph
 [YouTube]: https://www.youtube.com/channel/UCzz71vh75tZOhTMIf-Fc4vw
 [Facebook]: https://www.facebook.com/VerdantMusicZeph/
-[Email]: joeseffdl@gmail.com
+[Email]: mailto:joeseffdl@gmail.com
