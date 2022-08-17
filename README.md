@@ -3,7 +3,7 @@
 
 ## A 🧑‍🎓 taking up BS in Computer Engineering💻 & An aspring Full Stack Developer📚
 
-* 🏫 Currently in _3rd year 1st Semester - A.Y. 2021-2022_.
+* 🏫 Currently in _3rd year A.Y. 2021-2022_.
 * 🕸️ Getting the hang of **HTML, CSS, and JavaScript** on my [Portfolio].
 * 🎁 Looking forward to Contribute to Open Source projects.
 * 🥅 My Goal 2022: To be confident in Frontend development `=>` Backend development.
