@@ -68,7 +68,7 @@
       <img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens">
       <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white">
       <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white">
-      <img alt="NextJS" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=black&color=white">>
+      <img alt="NextJS" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=black&color=white">
       <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
       <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
