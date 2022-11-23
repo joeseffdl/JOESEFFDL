@@ -28,9 +28,9 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="ReactJS" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-  <img alt="NextJS" src="https://custom-icon-badges.demolab.com/badge/Next-js.svg?logo=nextjs&color=white">
-  <img alt="TailwindCSS" src="https://custom-icon-badges.demolab.com/badge/Tailwind-css.svg?logo=tailwind-css&logoColor=white&color=4dc0b5">
-  <img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-min.svg?logo=firebase-min&color=blue">
+  <img alt="NextJS" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=black&color=white">
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=Tailwind-css&logoColor=white&color=4dc0b5">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase&color=blue">
 </p>
 
 
@@ -68,12 +68,12 @@
       <img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens">
       <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white">
       <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white">
-      <img alt="NextJS" src="https://custom-icon-badges.demolab.com/badge/Next-js.svg?logo=nextjs&color=white">
+      <img alt="NextJS" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=black&color=white">>
       <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
       <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
       <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&logo=SASS&logoColor=white">
-      <img alt="TailwindCSS" src="https://custom-icon-badges.demolab.com/badge/Tailwind-css.svg?logo=tailwind-css&logoColor=white&color=4dc0b5">
+      <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&color=4dc0b5">
       <img alt="VueJS" src="https://img.shields.io/badge/Vue-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D">
       <img alt="Quasar" src="https://img.shields.io/badge/Quasar-16B7FB?&logo=quasar&logoColor=black">
   </p>
@@ -83,7 +83,7 @@
   <p>
       <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?&logo=Amazon%20DynamoDB&logoColor=white">
       <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white">
-      <img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-min.svg?logo=firebase-min&color=blue">
+      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase&color=blue">
       <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
       <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
       <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
