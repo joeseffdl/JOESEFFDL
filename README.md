@@ -88,7 +88,7 @@
       <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
       <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-      <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23000000.svg?&logo=netlify&logoColor=#00C7B7">
+      <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23000000.svg?&logo=netlify&logoColor=#00C7B7"
       <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
       <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
   </p>
