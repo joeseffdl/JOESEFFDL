@@ -23,13 +23,15 @@
 * 🥅 My Goal 2023: **`Solidify my skills and knowledge`** in Full Stack Web Development
 
 <h2>Main Tech Stack</h2>
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-<img alt="ReactJS" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-<img alt="NextJS" src="https://custom-icon-badges.demolab.com/badge/Next-js.svg?logo=nextjs&color=white">
-<img alt="TailwindCSS" src="https://custom-icon-badges.demolab.com/badge/Tailwind-css.svg?logo=tailwind-css&logoColor=white&color=4dc0b5">
-<img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-min.svg?logo=firebase-min&color=blue">
+<p>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="ReactJS" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+  <img alt="NextJS" src="https://custom-icon-badges.demolab.com/badge/Next-js.svg?logo=nextjs&color=white">
+  <img alt="TailwindCSS" src="https://custom-icon-badges.demolab.com/badge/Tailwind-css.svg?logo=tailwind-css&logoColor=white&color=4dc0b5">
+  <img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-min.svg?logo=firebase-min&color=blue">
+</p>
 
 
 ## 🛠️ Development Tools
