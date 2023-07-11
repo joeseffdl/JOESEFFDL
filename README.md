@@ -18,9 +18,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-* 🏫 4th year student at **`Polytechnic University of the Philippines`**
-* 👐 Looking forward to **`Contribute to Open-source projects`**
-* 🥅 My Goal 2023: **`Solidify my skills and knowledge`** in Full Stack Web Development
+* 🏫 BS in Computer Engineering at **`Polytechnic University of the Philippines`**
+* 👐 Currently practing **`Frontend Technologies`**
+* 🥅 My Goal this 2023: **`To be a`** Full Stack Web Developer
 
 <h2>Main Tech Stack</h2>
 <p>
