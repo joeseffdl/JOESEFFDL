@@ -20,7 +20,7 @@
 
 * 🏫 BS in Computer Engineering at **`Polytechnic University of the Philippines`**
 * 👐 Currently practing **`Full Stack Web Development`**
-* 🥅 My Goal this 2023: To be a consistent **`Full Stack Web Developer`**
+* 🥅 My Goal this 2023: To be a professional and a consistent **`Full Stack Web Developer`**
 
 <h2>Main Tech Stack</h2>
 <p>
